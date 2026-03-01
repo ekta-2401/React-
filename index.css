@@ -1,0 +1,9 @@
+#parent {
+    color: blue;
+    text-align: center;
+}
+
+#child {
+    color: red;
+    text-align: left;
+}
